@@ -1,5 +1,5 @@
 {% set name = "lsdtt-xtensor-python" %}
-{% set version = "0.0.4.13" %}
+{% set version = "0.0.4.14" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/lsdtt_xtensor_python-{{ version }}.tar.gz
-  sha256: 90f06b5ce796776724372e8b95072e529abfcfdd3fad462023a1c0c6a65f7cf3
+  sha256: 11fbd651290e00d561941292d27a7dd99745ecd76671594406a7d7aa1b97d0bd
 
 build:
   number: 1
