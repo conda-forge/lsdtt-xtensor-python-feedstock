@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/lsdtt_xtensor_python-{{ version }}.tar.gz
-  sha256: c09a4f2c91ad0e4de6a71c1704f5e8cad003258dd40d73c3206b4522dee1ebe6
+  sha256: dcbe50c42a8ef784a39e32a7d02b2dd3b8a448871d85de0cf5a2823c30e065ca
 
 build:
   number: 1
