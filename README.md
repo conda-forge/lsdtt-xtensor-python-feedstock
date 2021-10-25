@@ -170,5 +170,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@bgailleton](https://github.com/bgailleton/)
+* [@bgailleton](https://github.com/bgailleton/) - boris.gailleton@gfz-potsdam.de
 
